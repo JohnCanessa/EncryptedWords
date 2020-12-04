@@ -8,7 +8,7 @@ Solution in Java for this coding practice question.
 
 If interested in my comments and test scaffolding please read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/12/05/encrypted-words/
 
 Enjoy;
 
